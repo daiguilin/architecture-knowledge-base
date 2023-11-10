@@ -1,5 +1,9 @@
 ### 插件安装
 
+#### on-my-zsh
+1. 安装
+   ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
+
 #### git
 
 默认自带
